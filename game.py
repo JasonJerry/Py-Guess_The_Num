@@ -11,7 +11,7 @@ guess = 0
 
 while not hit:
 
-    player = int(input('What is yout guess? '))
+    player = int(input('What is your guess? '))
 
     guess += 1
 
